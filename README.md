@@ -7,7 +7,7 @@
  * @version 0.1 (Beta: Expect frequent updates and refactoring... of my life)
  * 
 // Eager dev student seeking gainful employment (and snacks).<br>
-// Currently absorbing knowledge like a sponge... a slightly leaky one.
-// Known bugs: Occasional syntax errors in casual conversation.
-// Future features: Becoming a coding ninja.
-// Contributions welcome (especially if they involve explaining async/await).
+// Currently absorbing knowledge like a sponge... a slightly leaky one.<br>
+// Known bugs: Occasional syntax errors in casual conversation.<br>
+// Future features: Becoming a coding ninja.<br>
+// Contributions welcome (especially if they involve explaining async/await).<br>
