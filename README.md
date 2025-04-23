@@ -14,3 +14,4 @@ I'm an eager developer student on the hunt for gainful employment (and maybe som
 Looking ahead, my future feature roadmap includes becoming a coding ninja! Contributions are definitely welcome, especially if you have a knack for explaining the mysteries of async/await. ✨
 
 p.s. I'm a gamer all the hours I'm not coding 🎮 @ayfresh206 🎮
+https://www.youtube.com/@ayfresh206
