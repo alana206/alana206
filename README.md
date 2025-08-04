@@ -1,26 +1,26 @@
-``` // about_me.js
-// Clean code, sharp wit, and a brain running on Node.js and late-night caffeine.
+Hey, I’m Alana (@alana206)👩
 
-const Alana = {
-  username: "@alana206",
-  title: "Full-stack Developer Student",
-  status: "Always building, always leveling up",
-  version: "1.0 (Expect regular updates, just like my projects)",
-  mood: () => console.log("Focused, determined, and ready for the next big thing."),
-};
+⛓️‍💥The convict coder👩🏻‍💻
 
-export default Alana;
-```
+I’m a full-stack developer student turning lessons learned the hard way into software that actually matters.
+Currently leveling up my Node.js and Next.js game while building projects that solve real-world problems—like my reentry app for Washington State.
 
-💻 About Me
-Developer student with a growing arsenal of skills in Node.js, Next.js, MongoDB, and more.
-Currently focused on building projects that solve real-world problems while expanding my expertise.
-Every bug I squash gets me closer to writing the kind of code that makes people say, “Damn, that’s clean.”
 
-🚀 Future Roadmap:
-	•	Master async/await and backend wizardry
-	•	Build impactful apps that make a difference
-	•	Turn my internship experience into a full-time dev career
+🛠 Tech Stack
+	•	Languages: JavaScript, TypeScript, HTML, CSS
+	•	Frameworks & Tools: Node.js, Next.js, Express, MongoDB, Firebase, Tailwind CSS
+	•	Other Skills: REST APIs, Git, Debugging like a pro (and swearing at bugs like one too)
 
-🎮 When I’m not coding, I’m gaming over at @ayfresh206
+⸻
 
+🚀 Current Mission
+	•	Finishing and launching my Reentry Resource App for Washington State
+	•	Growing from dev student to impact-driven engineer
+	•	Pushing commits that matter, not filler code
+
+⸻
+
+🎮 Off the Clock
+
+Gaming, fixing cars/ motorcyles, and building random stuff just because I can.
+Catch me on YouTube - TikTok → @ayfresh206
