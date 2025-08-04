@@ -1,4 +1,4 @@
-Hey, I’m Alana (@alana206)👩
+Hey, I’m Alana (@alana206)👩🏻‍🦱
 
 ⛓️‍💥The convict coder👩🏻‍💻
 
