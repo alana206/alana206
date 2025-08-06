@@ -14,7 +14,7 @@ Currently leveling up my Node.js and Next.js game while building projects that s
 ⸻
 
 🚀 Current Mission
-	•	Finishing and launching my Reentry Resource App for Washington State
+	•	Finishing and launching the Reentry Resource App for Washington State
 	•	Growing from dev student to impact-driven engineer
 	•	Pushing commits that matter, not filler code
 
