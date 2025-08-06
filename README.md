@@ -3,7 +3,7 @@ Hey, I’m Alana (@alana206)👩🏻‍🦱
 ⛓️‍💥The convict coder👩🏻‍💻
 
 I’m a full-stack developer student turning lessons learned the hard way into software that actually matters.
-Currently leveling up my Node.js and Next.js game while building projects that solve real-world problems—like my reentry app for Washington State.
+Currently leveling up my Node.js and Next.js game while building projects that solve real-world problems—like the reentry app for Washington State.
 
 
 🛠 Tech Stack
